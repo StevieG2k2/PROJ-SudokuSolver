@@ -1,0 +1,8 @@
+{"Result": {
+  "IndicatorsOrder": ["CALL"],
+  "Indicators": [{
+    "Name": "CALL",
+    "Description": "Number of function Calls",
+    "Type": "counter"
+  }]
+}}

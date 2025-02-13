@@ -1,0 +1,52 @@
+{"Result": {
+  "IndicatorsOrder": [
+    "Tmin",
+    "Tmax",
+    "Tavg",
+    "Tsum",
+    "Check"
+  ],
+  "Indicators": [
+    {
+      "Name": "Tmin",
+      "Description": "",
+      "Type": "timer",
+      "Meta": {
+        "ID": 0,
+        "STAT": "MIN"
+      }
+    },
+    {
+      "Name": "Tmax",
+      "Description": "",
+      "Type": "timer",
+      "Meta": {
+        "ID": 0,
+        "STAT": "MAX"
+      }
+    },
+    {
+      "Name": "Tavg",
+      "Description": "",
+      "Type": "timer",
+      "Meta": {
+        "ID": 0,
+        "STAT": "AVG"
+      }
+    },
+    {
+      "Name": "Tsum",
+      "Description": "",
+      "Type": "timer",
+      "Meta": {
+        "ID": 0,
+        "STAT": "SUM"
+      }
+    },
+    {
+      "Name": "Check",
+      "Description": "",
+      "Type": "int"
+    }
+  ]
+}}

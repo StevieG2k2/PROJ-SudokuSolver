@@ -1,0 +1,11 @@
+{"Algorithm": {
+  "Name": "DLX",
+  "ShortName": "DLX",
+  "Description": "Algorithm X with Dancing Links",
+  "Author": "Shivan Kaul Sahib",
+  "Date": "07, 2024",
+  "Language": "Java",
+  "Presenters": [],
+  "AlgorithmDescHTML": "algorithm.html",
+  "AlgorithmRefHTML": "references.html"
+}}

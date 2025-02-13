@@ -1,0 +1,39 @@
+{"TestCase": {
+  "InputParameters": [],
+  "Parameters": [
+    {
+      "Name": "Filename",
+      "Description": "Filename for the file locating the sudoku puzzles",
+      "Type": "string"
+    },
+    {
+      "Name": "N",
+      "Description": "Number of all examples",
+      "Type": "int",
+      "Meta": {
+        "Min": "0",
+        "Max": "0",
+        "Step": "0",
+        "Default": "0"
+      }
+    }
+  ],
+  "Generators": [
+    {
+      "Type": "Type0",
+      "Description": "",
+      "GeneratingParameters": [
+        "Filename",
+        "N"
+      ]
+    },
+    {
+      "Type": "Type1",
+      "Description": "",
+      "GeneratingParameters": [
+        "Filename",
+        "N"
+      ]
+    }
+  ]
+}}

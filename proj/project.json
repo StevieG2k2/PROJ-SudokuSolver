@@ -1,0 +1,35 @@
+{"Project": {
+  "Name": "SudokuSolver",
+  "Description": "Sudoku solving algorithm comparison",
+  "Author": "Jernej Petrovčič",
+  "Date": "07, 2024",
+  "Algorithms": [
+    "BackTracking",
+    "EasyHardLoop",
+    "HardEasyLoop",
+    "EasyHardModLoop",
+    "HardEasyModLoop",
+    "DLX"
+  ],
+  "TestSets": [
+    "TestSet1",
+    "TestSet2",
+    "TestSet3",
+    "TestSet4",
+    "TestSet5",
+    "TestSet6",
+    "TestSet7",
+    "TestSet8",
+    "TestSet9",
+    "TestSetAll"
+  ],
+  "ProjectJARs": [],
+  "AlgorithmJARs": [],
+  "EMExecFamily": "",
+  "CNTExecFamily": "",
+  "JVMExecFamily": "",
+  "ProjPresenters": [],
+  "AlgPresenters": [],
+  "MainProjPresenters": [],
+  "MainAlgPresenters": []
+}}
