@@ -1,0 +1,9 @@
+{"TestSet": {
+  "Name": "TestSet9",
+  "ShortName": "TS9",
+  "Description": "Tests of sudokus with SE rating 9.x",
+  "N": 1000,
+  "TestRepeat": 10,
+  "TimeLimit": 10,
+  "TestSetDescHTML": "TestSet9.html"
+}}

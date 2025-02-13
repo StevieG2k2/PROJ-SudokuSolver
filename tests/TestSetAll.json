@@ -1,0 +1,9 @@
+{"TestSet": {
+  "Name": "TestSetAll",
+  "ShortName": "TSA",
+  "Description": "testset_description",
+  "N": 18,
+  "TestRepeat": 10,
+  "TimeLimit": 10,
+  "TestSetDescHTML": "TestSetAll.html"
+}}
